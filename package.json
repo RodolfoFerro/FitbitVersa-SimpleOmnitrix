@@ -1,0 +1,18 @@
+{
+  "fitbit": {
+    "appUUID": "6c75fa41-8de0-41db-b851-f21f7447018b",
+    "appType": "clockface",
+    "appDisplayName": "Simple Omnitrix ",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Simple Omnitrix "
+      }
+    }
+  }
+}

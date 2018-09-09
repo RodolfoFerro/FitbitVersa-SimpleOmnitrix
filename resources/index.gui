@@ -1,0 +1,6 @@
+<svg>
+  <image href="back.png" />
+  <text id="timeLabel"></text>
+  <text id="dateLabel"></text>
+  <image href="heatblast.png" id="alien" pointer-events="visible" />
+</svg>

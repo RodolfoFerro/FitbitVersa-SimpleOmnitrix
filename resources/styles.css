@@ -1,0 +1,30 @@
+.background {
+  viewport-fill: black;
+}
+
+#alien {
+  x: 50%-45;
+  y: 20%;
+  width: 30%;
+  height: 30%;
+}
+
+#timeLabel {
+  font-size: 50;
+  font-family: Seville-Condensed;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+40;
+  fill: black;
+}
+
+#dateLabel {
+  font-size: 20;
+  font-family: Seville-Condensed;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+60;
+  fill: black;
+}
