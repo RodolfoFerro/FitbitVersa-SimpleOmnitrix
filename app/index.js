@@ -56,6 +56,8 @@ clock.ontick = (evt) => {
         alien.href = "wildmutt.png";
     } else if (alien.href === "wildmutt.png") {
         alien.href = "xlr8.png";
+    } else if (alien.href === "xlr8.png") {
+        alien.href = "marcianito.png";
     } else {
         alien.href = "heatblast.png";
     }
